@@ -17,6 +17,10 @@
 * Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
 * Rafael Gafoor - github: [RafaelGafoor]
 * 
+* 
+
+* Steven Williams - github: [DrWilliamsSteven](https://github.com/DrWilliamsSteven)
+
 
 ## Mozilla Science Lab Fellows
 

@@ -12,7 +12,7 @@
 
 ## Participants on July 22nd 2016
 
-* Test name 1 - github: [github username](link-to-github-homepage)
+)
 * Test name 2 - github: [github username](link-to-github-homepage)
 * Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
 * Rafael Gafoor - github: [RafaelGafoor]

@@ -11,6 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
+* Alex Cunningham - github: [apc40](https://github.com/apc40)
 
 ## Mozilla Science Lab Fellows
 

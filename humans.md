@@ -11,7 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
-
+* Veronika - github: [@siskavera](https://github.com/siskavera)
 ## Mozilla Science Lab Fellows
 
 The workshop was originally developed by:

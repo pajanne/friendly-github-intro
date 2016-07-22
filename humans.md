@@ -27,7 +27,23 @@
 * Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
 * X Cui - github [@cuixy13](https://github.com/cuixy13)
 
+
+
+
+
+
+
+
+
+
+
+
+
+* Fabio Puddu - github: [fabiopuddu](https://github.com/fabiopuddu) 
+* 
+
 ## Mozilla Science Lab Fellows
+
 
 The workshop was originally developed by:
 

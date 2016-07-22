@@ -11,6 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
+* Danish Memon - github: [dmemon](https://github.com/dmemon)
 
 ## Mozilla Science Lab Fellows
 

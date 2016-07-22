@@ -20,6 +20,7 @@
 * Yuan Huang - github: [yuanhuang](https://github.com/yuanhuang)
 * Kirstie Secret - github: [@KirstieSecret](https://github.com/kirstiesecret)
 * Alex Cunningham - github: [apc40](https://github.com/apc40)
+* Veronika - github: [@siskavera](https://github.com/siskavera)
 
 ## Mozilla Science Lab Fellows
 

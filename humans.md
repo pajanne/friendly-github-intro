@@ -11,6 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
+* Krishna C. Bulusu - github: vyom20 (https://github.com/vyom20)
 
 ## Mozilla Science Lab Fellows
 

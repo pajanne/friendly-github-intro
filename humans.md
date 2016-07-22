@@ -23,6 +23,7 @@
 * Veronika - github: [@siskavera](https://github.com/siskavera)
 * Matt - github: [mjthreesixfive](https://github.com/mjthreesixfive)
 * Andras Nagy - github: [nagyadavid](https://github.com/nagyadavid/friendly-github-intro)
+* Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
 
 ## Mozilla Science Lab Fellows
 
@@ -31,4 +32,7 @@ The workshop was originally developed by:
 * Joey Lee - github: [@joeyklee](https://github.com/joeyklee)
 * Steph Wright - github: [@stephwright](https://github.com/stephwright)
 
+<<<<<<< HEAD
 Thank you very much! (Jing)
+=======
+>>>>>>> 86e76c354a3ea1f2494612e9cd16b853b5eadf16

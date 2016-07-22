@@ -11,7 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
-* Kamal - github: [github username] https://github.com/kamalfartiyal84/
+* Kamal - github: [https://github.com/kamalfartiyal84/]
 
 ## Mozilla Science Lab Fellows
 

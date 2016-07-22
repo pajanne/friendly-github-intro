@@ -28,33 +28,12 @@
 * X Cui - github [@cuixy13](https://github.com/cuixy13)
 * Krishna C. Bulusu - github: vyom20 (https://github.com/vyom20)
 * Fabio Puddu - github: [fabiopuddu](https://github.com/fabiopuddu) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Andrew Swan - github [@monoke](https://github.com/monoke/)
-
-
-
-
 * Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
+* Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
+
 
 ## Mozilla Science Lab Fellows
-
 
 The workshop was originally developed by:
 

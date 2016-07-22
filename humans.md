@@ -29,6 +29,30 @@
 * Krishna C. Bulusu - github: vyom20 (https://github.com/vyom20)
 * Fabio Puddu - github: [fabiopuddu](https://github.com/fabiopuddu) 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Andrew Swan - github [@monoke](https://github.com/monoke/)
+
+
+
+
+* Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
+
 ## Mozilla Science Lab Fellows
 
 

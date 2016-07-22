@@ -25,6 +25,7 @@
 * Andras Nagy - github: [nagyadavid](https://github.com/nagyadavid/)
 * Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
 * Alexander Bates - github: [alexanderbates] (https://github.com/alexanderbates)
+* John Boucher - github: [jbsquared42](https://github.com/jbsquared42)
 
 ## Mozilla Science Lab Fellows
 

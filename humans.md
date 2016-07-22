@@ -9,8 +9,7 @@
 
 ## Participants on July 22nd 2016
 
-* Test name 1 - github: [github username](link-to-github-homepage)
-* Test name 2 - github: [github username](link-to-github-homepage)
+* Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
 
 ## Mozilla Science Lab Fellows
 
@@ -18,3 +17,4 @@ The workshop was originally developed by:
 
 * Joey Lee - github: [@joeyklee](https://github.com/joeyklee)
 * Steph Wright - github: [@stephwright](https://github.com/stephwright)
+

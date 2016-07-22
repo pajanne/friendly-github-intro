@@ -11,7 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
-
+* Matt - github: [mjthreesixfive](https://github.com/mjthreesixfive)
 ## Mozilla Science Lab Fellows
 
 The workshop was originally developed by:

@@ -18,6 +18,10 @@
 * Danish Memon - github: [dmemon](https://github.com/dmemon)
 * Steven Williams - github: [DrWilliamsSteven](https://github.com/DrWilliamsSteven)
 
+
+
+* Kirstie Secret - github: [@KirstieSecret](https://github.com/kirstiesecret)
+
 ## Mozilla Science Lab Fellows
 
 The workshop was originally developed by:

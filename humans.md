@@ -21,6 +21,7 @@
 * Kirstie Secret - github: [@KirstieSecret](https://github.com/kirstiesecret)
 * Alex Cunningham - github: [apc40](https://github.com/apc40)
 * Veronika - github: [@siskavera](https://github.com/siskavera)
+* Matt - github: [mjthreesixfive](https://github.com/mjthreesixfive)
 
 ## Mozilla Science Lab Fellows
 

@@ -10,6 +10,7 @@
 
 ## Participants on July 22nd 2016
 
+<<<<<<< HEAD
 * Chris Smith - github: [smithcg02](https://github.com/smithcg02)
 * Rafael Gafoor - github: [RafaelGafoor](https://github.com/RafaelGafoor)
 * Zhiang - github: [Zhiang](https://github.com/guoyida)
@@ -31,7 +32,7 @@
 * Andrew Swan - github [@monoke](https://github.com/monoke/)
 * Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
 * Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
-
+* Divya Venkatesh - github: delfinut https://github.com/delfinut/ 
 
 ## Mozilla Science Lab Fellows
 

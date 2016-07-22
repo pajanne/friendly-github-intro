@@ -17,6 +17,7 @@
 * Zhiang - github: [Zhiang](https://github.com/guoyida)
 * Danish Memon - github: [dmemon](https://github.com/dmemon)
 * Steven Williams - github: [DrWilliamsSteven](https://github.com/DrWilliamsSteven)
+* Yuan Huang - github: [yuanhuang](https://github.com/yuanhuang)
 * Kirstie Secret - github: [@KirstieSecret](https://github.com/kirstiesecret)
 * Alex Cunningham - github: [apc40](https://github.com/apc40)
 

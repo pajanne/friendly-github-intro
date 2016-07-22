@@ -12,7 +12,7 @@
 
 ## Participants on July 22nd 2016
 
-* Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
+* Chris Smith - github: [smithcg02](https://github.com/smithcg02)
 * Rafael Gafoor - github: [RafaelGafoor](https://github.com/RafaelGafoor)
 * Zhiang - github: [Zhiang](https://github.com/guoyida)
 * Danish Memon - github: [dmemon](https://github.com/dmemon)
@@ -22,8 +22,9 @@
 * Alex Cunningham - github: [apc40](https://github.com/apc40)
 * Veronika - github: [@siskavera](https://github.com/siskavera)
 * Matt - github: [mjthreesixfive](https://github.com/mjthreesixfive)
-* Andras Nagy - github: [nagyadavid](https://github.com/nagyadavid/friendly-github-intro)
+* Andras Nagy - github: [nagyadavid](https://github.com/nagyadavid/)
 * Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
+* Alexander Bates - github: [alexanderbates] (https://github.com/alexanderbates)
 
 ## Mozilla Science Lab Fellows
 

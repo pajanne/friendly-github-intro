@@ -26,6 +26,7 @@
 * John Boucher - github: [jbsquared42](https://github.com/jbsquared42)
 * Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
 * X Cui - github [@cuixy13](https://github.com/cuixy13)
+* Krishna C. Bulusu - github: vyom20 (https://github.com/vyom20)
 
 ## Mozilla Science Lab Fellows
 

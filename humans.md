@@ -21,7 +21,7 @@
 * Matt - github: [mjthreesixfive](https://github.com/mjthreesixfive)
 * Andras Nagy - github: [nagyadavid](https://github.com/nagyadavid/)
 * Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
-* Alexander Bates - github: [alexanderbates] (https://github.com/alexanderbates)
+* Alexander Bates - github: [alexanderbates](https://github.com/alexanderbates)
 * John Boucher - github: [jbsquared42](https://github.com/jbsquared42)
 * Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
 * X Cui - github [@cuixy13](https://github.com/cuixy13)
@@ -30,7 +30,7 @@
 * Andrew Swan - github [@monoke](https://github.com/monoke/)
 * Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
 * Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
-* Divya Venkatesh - github: delfinut https://github.com/delfinut/ 
+* Divya Venkatesh - github: [@delfinut](https://github.com/delfinut/)
 
 ## Mozilla Science Lab Fellows
 

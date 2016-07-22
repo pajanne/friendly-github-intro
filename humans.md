@@ -43,6 +43,25 @@
 * Fabio Puddu - github: [fabiopuddu](https://github.com/fabiopuddu) 
 * 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Andrew Swan - github [@monoke](https://github.com/monoke/)
+
 ## Mozilla Science Lab Fellows
 
 

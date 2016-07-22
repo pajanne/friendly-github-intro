@@ -13,6 +13,9 @@
 * Test name 2 - github: [github username](link-to-github-homepage)
 * Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
 * 
+* 
+* Andras Nagy - github: [nagyadavid] https://github.com/nagyadavid
+* 
 
 ## Mozilla Science Lab Fellows
 

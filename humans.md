@@ -27,21 +27,7 @@
 * Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
 * X Cui - github [@cuixy13](https://github.com/cuixy13)
 * Krishna C. Bulusu - github: vyom20 (https://github.com/vyom20)
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Fabio Puddu - github: [fabiopuddu](https://github.com/fabiopuddu) 
-* 
 
 ## Mozilla Science Lab Fellows
 

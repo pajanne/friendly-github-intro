@@ -62,6 +62,11 @@
 
 * Andrew Swan - github [@monoke](https://github.com/monoke/)
 
+
+
+
+* Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
+
 ## Mozilla Science Lab Fellows
 
 

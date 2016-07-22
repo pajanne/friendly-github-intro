@@ -6,6 +6,9 @@
 * Mark Dunning - github: [@markdunning](https://github.com/markdunning), twitter: [@DrMarkDunning](https://twitter.com/DrMarkDunning)
 * Anne Pajon - github: [@pajanne](https://github.com/pajanne)
 * Gordon Brown
+* 
+
+* X Cui - github [@cuixy13](https://github.com/cuixy13)
 
 ## Participants on July 22nd 2016
 

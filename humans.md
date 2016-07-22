@@ -6,9 +6,7 @@
 * Mark Dunning - github: [@markdunning](https://github.com/markdunning), twitter: [@DrMarkDunning](https://twitter.com/DrMarkDunning)
 * Anne Pajon - github: [@pajanne](https://github.com/pajanne)
 * Gordon Brown
-* 
 
-* X Cui - github [@cuixy13](https://github.com/cuixy13)
 
 ## Participants on July 22nd 2016
 
@@ -26,6 +24,8 @@
 * Marco Chiapello - github: [mchiapello](https://github.com/mchiapello)
 * Alexander Bates - github: [alexanderbates] (https://github.com/alexanderbates)
 * John Boucher - github: [jbsquared42](https://github.com/jbsquared42)
+* Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
+* X Cui - github [@cuixy13](https://github.com/cuixy13)
 
 ## Mozilla Science Lab Fellows
 
@@ -34,7 +34,3 @@ The workshop was originally developed by:
 * Joey Lee - github: [@joeyklee](https://github.com/joeyklee)
 * Steph Wright - github: [@stephwright](https://github.com/stephwright)
 
-<<<<<<< HEAD
-Thank you very much! (Jing)
-=======
->>>>>>> 86e76c354a3ea1f2494612e9cd16b853b5eadf16

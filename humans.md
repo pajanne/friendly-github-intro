@@ -17,11 +17,8 @@
 * Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
 * Rafael Gafoor - github: [RafaelGafoor]
 * Zhiang - github: [Zhiang](https://github.com/guoyida)
-* 
-* 
-
+* Danish Memon - github: [dmemon](https://github.com/dmemon)
 * Steven Williams - github: [DrWilliamsSteven](https://github.com/DrWilliamsSteven)
-
 
 ## Mozilla Science Lab Fellows
 

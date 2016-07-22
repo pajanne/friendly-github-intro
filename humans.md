@@ -10,7 +10,6 @@
 
 ## Participants on July 22nd 2016
 
-<<<<<<< HEAD
 * Chris Smith - github: [smithcg02](https://github.com/smithcg02)
 * Rafael Gafoor - github: [RafaelGafoor](https://github.com/RafaelGafoor)
 * Zhiang - github: [Zhiang](https://github.com/guoyida)

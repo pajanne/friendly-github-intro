@@ -17,6 +17,9 @@
 * Chris Smith - github: [smithcg02](https://kirstiejane.github.io/friendly-github-intro/#schedule)
 * Rafael Gafoor - github: [RafaelGafoor]
 * 
+* 
+* 
+* Yaseen Ladak - github: [yaseen-ladak] (https://github.com/yaseen-ladak)
 
 ## Mozilla Science Lab Fellows
 
